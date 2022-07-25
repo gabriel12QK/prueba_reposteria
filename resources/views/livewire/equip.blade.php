@@ -1,8 +1,8 @@
  <div>
     <table>
-        <thead>
-            <tr>
-                <td>
+        <thead >
+            <tr >
+                <td >
                    nombre 
                 </td>
                 <td>

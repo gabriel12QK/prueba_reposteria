@@ -4,9 +4,9 @@
            <input type="text" wire:model="buscar">
            <a href="{{url('jugador-pdf'.$buscar)}}">reporte de jugador</a>
      </div> --}}
-    <table>
-        <thead>
-            <tr>
+    <table >
+        <thead  >
+            <tr  >
                 <td>
                    nombre 
                 </td>
